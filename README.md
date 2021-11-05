@@ -3,6 +3,9 @@
 This repository contains sample image data for our Mine Tracking Workshop. Feel free to
 download and inspect the data. To participate in the workshop, please have the data available on your computer and [label-studio](https://labelstud.io/) installed. 
 
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/mommermi/minetracking2021/main/3548.gif">
+</p>
 
 ## Data 
 
@@ -13,6 +16,8 @@ The image data were obtained by the [Sentinel-2 satellites](https://sentinel.esa
 * Himmetdede Gold Mine (55350, Turkey), [Google Maps](https://www.google.com/maps/place/38%C2%B057'01.8%22N+35%C2%B003'31.0%22E/@38.948383,35.0539053,4265m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d38.9505!4d35.0586), 3 observations
 
 Typically, there is a time difference of about 3 months between two successive observations of each site. Images are available as `png` image files of size 1000x1000 pixels covering 10x10 km on the ground. For each site, a `gif` animation at lower image resolution is available, too, to highlight changes between the individual observations caused by mining operations, weather conditions, and seasonal variations.  
+
+You can easily download this entire repository as a [zip](https://github.com/mommermi/minetracking2021/archive/refs/heads/main.zip) file.
 
 ## Labeling
 
